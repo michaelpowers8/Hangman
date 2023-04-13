@@ -184,7 +184,7 @@ def play():
     guesses = ""
     correct_letters = 0
     body_parts = 0
-    file_name = "Easy Random Words.txt"
+    file_name = "Random Words.txt"
     create_base()
     get_words()
     word = random.choice(random_words)
