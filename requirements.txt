@@ -1,1 +1,5 @@
 streamlit >= 1.0.0
+tracemalloc
+turtle
+tkinter
+random
